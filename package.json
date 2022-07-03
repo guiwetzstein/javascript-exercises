@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "jest",
+    "ex1": "node ex1.js",
+    "ex1-interactive": "node ex1-interactive.js",
+    "ex2": "node ex2.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
